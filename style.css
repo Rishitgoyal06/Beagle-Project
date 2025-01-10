@@ -1,0 +1,41 @@
+body{
+     font-family: 'Inter', sans-serif;
+}
+.section1{
+    border: 1px solid black;
+    padding:12px;
+}
+
+#header1{
+    text-decoration: underline;
+    margin-bottom: 22px;
+    margin-top: 0px;
+}
+
+p{
+    margin-bottom: 22px;
+}
+
+#header{
+    margin-top: 12px;
+    margin-bottom: 22px;
+    text-decoration: underline;
+}
+
+img{
+    margin-bottom: 12px;
+}
+
+.section_3 h1{
+    margin-top: 12px;
+    text-decoration: underline;
+}
+
+.list_container{
+    padding: 0px 18px;
+}
+
+ol{
+    margin-left: 0px;
+    padding-left: 0px;
+}
